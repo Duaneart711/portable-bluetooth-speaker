@@ -1,4 +1,4 @@
-# Portable Bluetooth Speaker
+# Portable Handmade Speaker
 
 ## Overview
 
