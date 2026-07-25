@@ -10,13 +10,12 @@ Designed and built a portable battery-powered speaker by constructing a custom s
 
 ## Project Highlights
 
-Custom speaker driver assembly
-Battery-powered portable audio system
-Audio amplifier integration
-Electrical wiring and soldering
-Custom wooden enclosure
-Hardware testing and troubleshooting
-
+- Custom speaker driver assembly
+- Battery-powered portable audio system
+- Audio amplifier integration
+- Electrical wiring and soldering
+- Custom wooden enclosure
+- Hardware testing and troubleshooting
 ---
 ## How It Works
 
@@ -47,11 +46,6 @@ All electrical components were wired, soldered, and integrated into a custom-bui
 Rather than using a preassembled speaker driver, this project involved assembling the core components responsible for producing sound, including a permanent magnet, a hand-wound voice coil, and a paper diaphragm.
 
 The completed assembly was integrated with the amplifier and power system to convert amplified electrical signals into mechanical vibration and, ultimately, sound. Building the speaker driver provided hands-on experience with electromagnetism, mechanical assembly, electrical wiring, and hardware integration.
-## System Architecture
-
-The speaker system distributes power from a 6 V battery pack to an audio amplifier module that receives an external audio signal through a 3.5 mm auxiliary input. The amplified signal drives the speaker while an integrated potentiometer provides adjustable volume control. All electrical components were mounted and wired within a custom-built wooden enclosure.
-
----
 
 ### Speaker Driver Components
 
@@ -62,16 +56,7 @@ The image below shows the assembled speaker driver before final enclosure assemb
 
 ---
 
-## Speaker Driver Design
-
-Rather than using a preassembled speaker driver, the speaker was built by assembling its core electromechanical components, including a permanent magnet, hand-wound voice coil, and paper diaphragm.
-
-When an audio signal passes through the voice coil, the changing current creates a magnetic field that interacts with the permanent magnet. This causes the voice coil and attached diaphragm to move back and forth, converting electrical signals into sound waves.
-
-Building the speaker driver provided hands-on experience with electromagnetism, mechanical assembly, and the relationship between electrical current and mechanical motion.
-
----
-## My Contributions
+## Design & Implementation 
 
 This project was independently designed and assembled from component selection through final system validation.
 
