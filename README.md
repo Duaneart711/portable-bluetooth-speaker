@@ -2,29 +2,31 @@
 
 ## Overview
 
-Designed and built a portable battery-powered speaker system by integrating audio electronics, power distribution circuitry, and a custom enclosure into a fully functional portable audio device. The project involved electrical wiring, PCB integration, soldering, enclosure fabrication, and iterative hardware testing to create a reliable battery-powered speaker capable of playing audio through a standard 3.5 mm auxiliary connection.
+Designed and built a portable battery-powered speaker by constructing a custom speaker driver and integrating audio electronics, power distribution circuitry, and a custom enclosure into a fully functional portable audio device.
 
 ---
+
+<img width="1179" height="1472" alt="IMG_2298" src="https://github.com/user-attachments/assets/8941c31c-b16d-4fed-b4dc-55346f006127" />
 
 ## Project Highlights
 
-- Battery-powered portable audio system
-- Custom 6 V battery power distribution
-- Integrated adjustable audio amplifier module
-- PCB assembly and electrical wiring
-- Custom-built wooden enclosure
-- Prototype-driven hardware development
+Custom speaker driver assembly
+Battery-powered portable audio system
+Audio amplifier integration
+Electrical wiring and soldering
+Custom wooden enclosure
+Hardware testing and troubleshooting
 
 ---
+## How It Works
 
-## System Architecture
+The speaker is powered by a 6 V battery pack that supplies power to an audio amplifier module. Audio from an external device enters through a standard 3.5 mm auxiliary connection, where the amplifier increases the signal before sending it to the speaker driver. A built-in potentiometer allows the output volume to be adjusted, while a power switch controls the battery supply.
 
-*(Insert a block diagram showing the battery pack, power switch, amplifier board, potentiometer, speaker driver, and 3.5 mm audio input.)*
+The speaker driver converts the amplified electrical signal into sound using a permanent magnet, a hand-wound voice coil, and a paper diaphragm. As the audio signal passes through the voice coil, the changing current creates a magnetic field that interacts with the permanent magnet. This interaction causes the voice coil and attached diaphragm to move back and forth, producing sound waves.
 
-The speaker system distributes power from a 6 V battery pack to an audio amplifier module that receives an external audio signal through a 3.5 mm auxiliary input. The amplified signal drives the speaker while an integrated potentiometer provides adjustable volume control. All electrical components were mounted and wired within a custom-built wooden enclosure.
+All electrical components were wired, soldered, and integrated into a custom-built wooden enclosure to create a fully portable, battery-powered audio system.
 
 ---
-
 ## Hardware Components
 
 - Audio Amplifier PCB
@@ -40,6 +42,36 @@ The speaker system distributes power from a 6 V battery pack to an audio amplifi
 
 ---
 
+## Speaker Driver Assembly
+
+Rather than using a preassembled speaker driver, this project involved assembling the core components responsible for producing sound, including a permanent magnet, a hand-wound voice coil, and a paper diaphragm.
+
+The completed assembly was integrated with the amplifier and power system to convert amplified electrical signals into mechanical vibration and, ultimately, sound. Building the speaker driver provided hands-on experience with electromagnetism, mechanical assembly, electrical wiring, and hardware integration.
+## System Architecture
+
+*(Insert a block diagram showing the battery pack, power switch, amplifier board, potentiometer, speaker driver, and 3.5 mm audio input.)*
+
+The speaker system distributes power from a 6 V battery pack to an audio amplifier module that receives an external audio signal through a 3.5 mm auxiliary input. The amplified signal drives the speaker while an integrated potentiometer provides adjustable volume control. All electrical components were mounted and wired within a custom-built wooden enclosure.
+
+---
+
+### Speaker Driver Components
+
+[Photo 2.pdf](https://github.com/user-attachments/files/30365717/Photo.2.pdf)
+
+The image below shows the assembled speaker driver before final enclosure assembly, including the permanent magnet, hand-wound voice coil, paper diaphragm, and supporting structure.
+
+---
+
+## Speaker Driver Design
+
+Rather than using a preassembled speaker driver, the speaker was built by assembling its core electromechanical components, including a permanent magnet, hand-wound voice coil, and paper diaphragm.
+
+When an audio signal passes through the voice coil, the changing current creates a magnetic field that interacts with the permanent magnet. This causes the voice coil and attached diaphragm to move back and forth, converting electrical signals into sound waves.
+
+Building the speaker driver provided hands-on experience with electromagnetism, mechanical assembly, and the relationship between electrical current and mechanical motion.
+
+---
 ## My Contributions
 
 This project was independently designed and assembled from component selection through final system validation.
@@ -54,17 +86,17 @@ Responsibilities included:
 - Investigated wiring and power delivery issues through systematic troubleshooting during development.
 
 ---
-
 ## Engineering Challenges
 
-Several engineering challenges required testing and iterative refinement throughout development.
+Several engineering challenges were addressed throughout development.
 
-- Designed a stable battery-powered power distribution system capable of supplying the audio amplifier.
-- Organized internal wiring within a compact enclosure while maintaining reliable electrical connections.
-- Eliminated wiring mistakes and poor solder joints through iterative electrical troubleshooting.
-- Balanced component placement to improve assembly, accessibility, and overall enclosure organization.
-- Verified reliable audio output while ensuring stable operation under battery power.
+- **Power distribution:** Ensuring the battery pack provided stable power to the amplifier during operation.
 
+- **Electrical wiring:** Routing and soldering internal wiring while maintaining reliable electrical connections inside a compact enclosure.
+
+- **Speaker assembly:** Aligning the voice coil, permanent magnet, and paper diaphragm to produce consistent sound output.
+
+- **Mechanical integration:** Arranging components inside the enclosure while maintaining accessibility and structural stability.
 ---
 
 ## Testing & Validation
@@ -82,14 +114,9 @@ System validation included:
 
 ## Results
 
-The completed prototype successfully demonstrated:
+The completed speaker successfully demonstrated reliable battery-powered operation with clear audio output and adjustable volume control. Through hardware integration, soldering, and iterative testing, the project combined a custom speaker driver, amplifier, power system, and enclosure into a fully functional portable audio device.
 
-- Stable battery-powered operation
-- Reliable audio amplification
-- Functional volume adjustment
-- Successful integration of electrical and mechanical components
-- Portable operation using a custom-built enclosure
-
+The project demonstrated practical experience with PCB integration, electrical wiring, electromechanical assembly, troubleshooting, and system validation.
 ---
 
 ## Project Photos
