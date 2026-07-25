@@ -2,7 +2,7 @@
 
 ## Overview
 
-Designed and built a portable battery-powered speaker by constructing a custom speaker driver and integrating audio electronics, power distribution circuitry, and a custom enclosure into a fully functional portable audio device.
+Designed and built a portable audio system by constructing a custom speaker driver and integrating audio electronics, power distribution circuitry, and a custom enclosure.
 
 ---
 
@@ -23,7 +23,7 @@ The speaker is powered by a 6 V battery pack that supplies power to an audio amp
 
 The speaker driver converts the amplified electrical signal into sound using a permanent magnet, a hand-wound voice coil, and a paper diaphragm. As the audio signal passes through the voice coil, the changing current creates a magnetic field that interacts with the permanent magnet. This interaction causes the voice coil and attached diaphragm to move back and forth, producing sound waves.
 
-All electrical components were wired, soldered, and integrated into a custom-built wooden enclosure to create a fully portable, battery-powered audio system.
+All electrical components were wired, soldered, and integrated into a custom-built wooden enclosure to create a complete portable audio system.
 
 ---
 ## Hardware Components
@@ -62,8 +62,8 @@ This project was independently designed and assembled from component selection t
 
 Responsibilities included:
 
-- Designed the overall electrical layout for a portable battery-powered speaker system.
-- Integrated the amplifier PCB, battery power system, audio input, and speaker into a single functioning device.
+- Built the internal electrical system by wiring and soldering the amplifier, power supply, speaker, and controls together.
+- Mounted and secured electrical components within the enclosure while maintaining accessibility and structural stability.
 - Wired and soldered more than ten electrical components, including power circuitry, audio connections, passive components, and control hardware.
 - Fabricated and assembled a custom wooden enclosure to securely mount electrical hardware.
 - Verified system functionality through electrical testing and iterative hardware integration.
@@ -98,9 +98,10 @@ System validation included:
 
 ## Results
 
-The completed speaker successfully demonstrated reliable battery-powered operation with clear audio output and adjustable volume control. Through hardware integration, soldering, and iterative testing, the project combined a custom speaker driver, amplifier, power system, and enclosure into a fully functional portable audio device.
+The completed speaker successfully produced consistent audio playback with adjustable volume control. Through hardware integration, soldering, and iterative testing, the project combined a custom speaker driver, amplifier, power system, and enclosure into a fully functional portable audio system.
 
-The project demonstrated practical experience with PCB integration, electrical wiring, electromechanical assembly, troubleshooting, and system validation.
+The project provided practical experience with PCB integration, electrical wiring, electromechanical assembly, troubleshooting, and system validation.
+
 ---
 
 ## Project Photos
@@ -119,7 +120,7 @@ The project demonstrated practical experience with PCB integration, electrical w
 
 > **Note:** GitHub limits embedded video uploads to 10 MB, so the embedded demonstration is a compressed, shortened version. Higher-quality demonstrations are available below via YouTube Shorts.
 
-Demo 1
+### Demo 1
 https://github.com/user-attachments/assets/44527826-06ce-4de0-a7f0-598d32ec1500
 
 
@@ -131,7 +132,7 @@ https://github.com/user-attachments/assets/44527826-06ce-4de0-a7f0-598d32ec1500
 
 Full Short:  https://youtube.com/shorts/3ekjdC-jrF0?feature=share
 
-Demo 2
+### Demo 2
 https://github.com/user-attachments/assets/7d41277c-c18f-403b-8367-05608d7ef0dd
 
 
