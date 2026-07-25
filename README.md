@@ -2,20 +2,12 @@
 
 ## Overview
 
-Designed and built a portable audio system by constructing a custom speaker driver and integrating audio electronics, power distribution circuitry, and a custom enclosure.
+Designed and built a portable audio system by constructing a custom speaker driver, integrating the audio electronics and power distribution circuitry, and fabricating a custom wooden enclosure.
 
 ---
 
 <img width="1179" height="1472" alt="IMG_2298" src="https://github.com/user-attachments/assets/8941c31c-b16d-4fed-b4dc-55346f006127" />
 
-## Project Highlights
-
-- Custom speaker driver assembly
-- Battery-powered portable audio system
-- Audio amplifier integration
-- Electrical wiring and soldering
-- Custom wooden enclosure
-- Hardware testing and troubleshooting
 ---
 ## How It Works
 
@@ -98,9 +90,7 @@ System validation included:
 
 ## Results
 
-The completed speaker successfully produced consistent audio playback with adjustable volume control. Through hardware integration, soldering, and iterative testing, the project combined a custom speaker driver, amplifier, power system, and enclosure into a fully functional portable audio system.
-
-The project provided practical experience with PCB integration, electrical wiring, electromechanical assembly, troubleshooting, and system validation.
+The completed system delivered clear audio playback across multiple input devices under battery power while maintaining stable power delivery and reliable electrical connections throughout testing. The hand-wound voice coil and driver assembly produced audible, consistent sound output with functional volume control. The project required resolving multiple wiring and power delivery issues during development, each of which was diagnosed and corrected through systematic troubleshooting before final validation.
 
 ---
 
@@ -145,20 +135,3 @@ https://github.com/user-attachments/assets/7d41277c-c18f-403b-8367-05608d7ef0dd
 
 Full Short: https://youtube.com/shorts/LLxYzhXc8Do?feature=share
 
-
----
-
-## Skills Demonstrated
-
-This project strengthened practical experience in:
-
-- PCB Assembly
-- Electrical Wiring
-- Soldering
-- Hardware Integration
-- Power Distribution
-- Electrical Testing
-- Troubleshooting
-- Prototype Development
-- Enclosure Fabrication
-- System Validation
