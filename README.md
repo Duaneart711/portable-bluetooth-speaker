@@ -57,7 +57,8 @@ The speaker system distributes power from a 6 V battery pack to an audio amplifi
 
 ### Speaker Driver Components
 
-[Photo 2.pdf](https://github.com/user-attachments/files/30365717/Photo.2.pdf)
+<img width="1179" height="1571" alt="IMG_2299" src="https://github.com/user-attachments/assets/ed3fc13e-c8ea-42d8-ba3c-e1bc3b3d026d" />
+
 
 The image below shows the assembled speaker driver before final enclosure assembly, including the permanent magnet, hand-wound voice coil, paper diaphragm, and supporting structure.
 
