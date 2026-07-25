@@ -49,8 +49,6 @@ Rather than using a preassembled speaker driver, this project involved assemblin
 The completed assembly was integrated with the amplifier and power system to convert amplified electrical signals into mechanical vibration and, ultimately, sound. Building the speaker driver provided hands-on experience with electromagnetism, mechanical assembly, electrical wiring, and hardware integration.
 ## System Architecture
 
-*(Insert a block diagram showing the battery pack, power switch, amplifier board, potentiometer, speaker driver, and 3.5 mm audio input.)*
-
 The speaker system distributes power from a 6 V battery pack to an audio amplifier module that receives an external audio signal through a 3.5 mm auxiliary input. The amplified signal drives the speaker while an integrated potentiometer provides adjustable volume control. All electrical components were mounted and wired within a custom-built wooden enclosure.
 
 ---
