@@ -1,4 +1,4 @@
-# Portable Handmade Speaker
+# Portable Speaker System
 
 ## Overview
 
